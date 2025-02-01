@@ -1,0 +1,14 @@
+.cnt {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+
+.cnt-body {
+  flex-grow: 1;
+}
+
+.editor {
+  height: 100%;
+}
